@@ -1,7 +1,7 @@
 # MAX7219 Smart Desk Clock
 A compact and modern smart desk clock designed for everyday use.
 
-#Automatic Date & Time Sync
+# Automatic Date & Time Sync
 
 - The clock automatically connects to your home Wi-Fi network and synchronizes the current date and time, eliminating the need for manual setup.
 
