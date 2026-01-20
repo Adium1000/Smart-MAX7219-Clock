@@ -5,7 +5,7 @@ A compact and modern smart desk clock designed for everyday use.
 ### Overall
 ![logo](Assets/Design.png)
 ### 3D Parts
-![logo](Assets/Plate.png)
+![logo](Assets/plate.png)
 ![logo](Assets/boody.png)
 ### Schematics
 ![logo](Schematics/schematics.png)
