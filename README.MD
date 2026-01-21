@@ -31,7 +31,7 @@ A compact and modern smart desk clock designed for everyday use.
 
 # Product Photos 
 ## See a Video (CLick the image)
-[![VIDEO DEMO](https://img.youtube.com/vi/mbNlK1Pt-dg/0.jpg)](https://www.youtube.com/watch?v=mbNlK1Pt-dg)]
+[![VIDEO DEMO](https://img.youtube.com/vi/mbNlK1Pt-dg/0.jpg)](https://www.youtube.com/watch?v=mbNlK1Pt-dg)
 ## Images
 
 ![logo](Assets/Design.png)
