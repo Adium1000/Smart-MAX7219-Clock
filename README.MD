@@ -15,16 +15,18 @@ A compact and modern smart desk clock designed for everyday use.
 
 - Reminders
 
+![logo](Assets/buy.png)
+
 - Temperature
 
 - Atmospheric pressure
 
 ### Wireless Configuration
-
+![logo](Assets/wifi.png)
 - Full wireless configuration using your computer
 
 ### Touch Button Functions
-
+![logo](Assets/touch.png)
 - Hold for 2 seconds – Enable a carousel that cycles through Time, Date, Temperature, and Reminders (if available) / Hold again to disable the carousel.
 
 - Single tap – Turn the display off / Single tap again – Turn the display on
