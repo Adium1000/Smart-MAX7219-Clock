@@ -1,18 +1,7 @@
 # MAX7219 Smart Desk Clock
 A compact and modern smart desk clock designed for everyday use.
-
-# Product Photos 
-### Overall
-## 🎥 Preview video
-
-[![Preview video](https://img.youtube.com/vi/GKPfys7YM_s/0.jpg)](https://www.youtube.com/watch?v=GKPfys7YM_s)
-
 ![logo](Assets/Design.png)
-### 3D Parts
-![logo](Assets/plate.png)
-![logo](Assets/boody.png)
-### Schematics
-![logo](Schematics/schematics.png)
+
 # Device Info
 ### Automatic Date & Time Sync
 
@@ -39,6 +28,21 @@ A compact and modern smart desk clock designed for everyday use.
 - Hold for 2 seconds – Enable a carousel that cycles through Time, Date, Temperature, and Reminders (if available) / Hold again to disable the carousel.
 
 - Single tap – Turn the display off / Single tap again – Turn the display on
+
+# Product Photos 
+## See a Video (CLick the image)
+[![VIDEO DEMO](https://img.youtube.com/vi/mbNlK1Pt-dg/0.jpg)](https://www.youtube.com/watch?v=mbNlK1Pt-dg)]
+## Images
+
+![logo](Assets/Design.png)
+![logo](Assets/d2.png)
+![logo](Assets/d3.png)
+### 3D Parts
+![logo](Assets/plate.png)
+![logo](Assets/boody.png)
+### Schematics
+![logo](Schematics/schematics.png)
+
 
 
 # BOM
