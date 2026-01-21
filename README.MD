@@ -3,6 +3,10 @@ A compact and modern smart desk clock designed for everyday use.
 
 # Product Photos 
 ### Overall
+## 🎥 Preview video
+
+[![Preview video](https://img.youtube.com/vi/GKPfys7YM_s/0.jpg)](https://www.youtube.com/watch?v=GKPfys7YM_s)
+
 ![logo](Assets/Design.png)
 ### 3D Parts
 ![logo](Assets/plate.png)
